@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since<br>📚 I'm currently learning<br>🎯 My goal is to finish my degree in Systems Analysis and Developmentt <br>🌎 Intermediate English</p>
+<p align="left">✨ Freelancer<br>📚 I'm currently learning<br>🎯 My goal is to finish my degree in Systems Analysis and Developmentt <br>🌎 Intermediate English</p>
 
 ###
 
@@ -25,5 +25,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
