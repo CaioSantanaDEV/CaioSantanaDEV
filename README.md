@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programador Backend focado em java e com experiência me C#<br>📚 Estou sempre estudando<br>🎯 Objetivos: Ser sempre a minha melhor versão<br>✅ Cursando ADS e no Último semestre de Gestão Pública</p>
+<p align="left">💻 Programador Backend focado em java e com experiência me C#<br>📚 Estou sempre estudando<br>🎯 Objetivos: Ser sempre a minha melhor versão<br>✅ Cursando ADS e no último semestre de Gestão Pública</p>
 
 ###
 
