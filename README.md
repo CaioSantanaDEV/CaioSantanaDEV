@@ -33,11 +33,19 @@ Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida exp
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSantanaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSantanaDEV&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaioSantanaDEV&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+</p>
+
+
+
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioSantanaDEV&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
@@ -55,10 +63,10 @@ Aplicação completa integrando **Java 21/Spring Boot 3** e **Angular 21**.
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-santana-6a0b12267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:caiosantana.lkd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
