@@ -1,39 +1,64 @@
-<h1 align="left">Olá 👋 Tudo bom?</h1>
+# Olá, eu sou o Caio Santana! 👋
 
-###
+Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida experiência em ecossistemas Java e interfaces modernas com Angular. Busco aplicar as melhores práticas de engenharia de software e arquitetura limpa.
 
-<p align="left">Meu nome é Caio de Souza Santana</p>
+---
 
-###
+### 🚀 Sobre Mim
 
-<h2 align="left">Sobre mim</h2>
+- 📖 Gestor Público graduado. 
+- 💻 Atualmente focado em aperfeiçoar o desenvolvimento Full Stack (Spring Boot + Angular).
+- 🎓 Estudando ADS. Além de padrões de projeto, microserviços e segurança em APIs REST por fora da faculdade.
+- ⚡ Apaixonado por resolver problemas através de código.
 
-###
+---
 
-<p align="left">💻 Programador Backend focado em java e com experiência me C#<br>📚 Estou sempre estudando<br>🎯 Objetivos: Ser sempre a minha melhor versão<br>✅ Cursando ADS e graduado em Gestão Pública</p>
+### 🛠️ Tecnologias e Ferramentas
 
-###
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=databricks&logoColor=white" alt="H2">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-<h2 align="left">Programo com</h2>
+---
 
-###
+### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSantanaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSantanaDEV&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
-###
+---
+
+### 📂 Projetos em Destaque
+
+#### [Sistema de Gerenciamento de Clientes (Full Stack)](https://github.com/CaioSantanaDEV/crud-clientes)
+Aplicação completa integrando **Java 21/Spring Boot 3** e **Angular 21**.
+- CRUD completo com validação de dados e tratamento de exceções global.
+- Interface reativa com suporte a Dark/Light Mode.
+- Arquitetura baseada em DTOs e Standalone Components.
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
