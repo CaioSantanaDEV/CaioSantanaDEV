@@ -43,10 +43,6 @@ Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida exp
 
 
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioSantanaDEV&theme=dracula" alt="GitHub Streak" />
-</p>
 
 ---
 
