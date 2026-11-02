@@ -1,15 +1,15 @@
 # Olá, eu sou o Caio Santana! 👋
 
-Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida experiência em ecossistemas Java e interfaces modernas com Angular. Busco aplicar as melhores práticas de engenharia de software e arquitetura limpa.
+Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida experiência no ecossistema Java (Spring Boot) e interfaces modernas com Angular. Busco aplicar as melhores práticas de engenharia de software, modelagem de domínio e arquitetura limpa.
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 📖 Gestor Público graduado. 
-- 💻 Atualmente focado em aperfeiçoar o desenvolvimento Full Stack (Spring Boot + Angular).
-- 🎓 Estudando ADS. Além de padrões de projeto, microserviços e segurança em APIs REST por fora da faculdade.
-- ⚡ Apaixonado por resolver problemas através de código.
+- 📖 Gestor Público graduado e graduando em Análise e Desenvolvimento de Sistemas (ADS).
+- 💻 Focado em desenvolvimento Full Stack (Java 21, Spring Boot 3, Angular 17 e PostgreSQL).
+- ⚙️ Experiência prática com APIs RESTful seguras (JWT), migrações de banco com Flyway, Docker e deploy contínuo na nuvem.
+- ⚡ Apaixonado por transformar regras de negócio complexas em software funcional.
 
 ---
 
@@ -17,22 +17,25 @@ Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida exp
 
 <p align="left">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
   
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/H2_Database-004088?style=for-the-badge&logo=databricks&logoColor=white" alt="H2">
+  <!-- Database & DevOps -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
-
 
 ### 📊 Estatísticas do GitHub
 
@@ -40,23 +43,23 @@ Desenvolvedor focado em criar soluções robustas e escaláveis, com sólida exp
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaioSantanaDEV&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 </p>
 
+---
 
+### 📂 Projeto em Destaque
 
+#### [ScrapInvest — Inteligência Fundamentalista & Gestão de Carteira](https://github.com/CaioSantanaDEV/scrapinvest)
+Plataforma fullstack de análise de dados da B3, unificando Ações, Fundos Imobiliários (FIIs), simulador de renda fixa e controle patrimonial em tempo real.
 
+- **Stack:** Java 21, Spring Boot 3, Angular 17, Tailwind CSS, PostgreSQL e Docker.
+- **Engenharia de Dados:** Motor de web scraping resiliente (Jsoup) com persistência em PostgreSQL gerenciada por migrations com Flyway e fallback automático.
+- **Especialização de Domínio:** Regras de negócio dedicadas para FIIs (composição de ativos e vacância física) versus Ações (DRE, margens e múltiplos de valuation), além de tratamento automático para o setor bancário.
+- **Gestão Transacional:** Cálculo de preço médio ponderado no backend, autenticação JWT stateless e simulador de juros compostos.
+- **Produção:** Deploy automatizado com backend containerizado no Render, frontend na Vercel e banco gerenciado no Supabase.
+- **Demonstração:** [Acessar Aplicação ao Vivo](https://scrapinvest-lemon.vercel.app) | [Vídeo de Demonstração (YouTube)](https://youtu.be/o_AyEzC66GQ)
 
 ---
 
-### 📂 Projetos em Destaque
-
-#### [Sistema de Gerenciamento de Clientes (Full Stack)](https://github.com/CaioSantanaDEV/crud-clientes)
-Aplicação completa integrando **Java 21/Spring Boot 3** e **Angular 21**.
-- CRUD completo com validação de dados e tratamento de exceções global.
-- Interface reativa com suporte a Dark/Light Mode.
-- Arquitetura baseada em DTOs e Standalone Components.
-
----
-
-### 📫 Como me encontrar
+### 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caio-santana-6a0b12267/" target="_blank">
